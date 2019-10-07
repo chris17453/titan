@@ -1,0 +1,4 @@
+# passwd
+# user_uuid : group_id : user_id
+root: 0: 0
+sysadmin: 100: 100

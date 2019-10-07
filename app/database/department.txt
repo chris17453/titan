@@ -1,0 +1,13 @@
+# uuid,name,desc,created,active
+Operations1|Operations| Operations Generic Description | 2019-10-06 12:31:00|1
+TechOps1|TechOps| TechOps Generic Description | 2019-10-06 12:31:00|1
+DevOps1|DevOps| DevOps Generic Description | 2019-10-06 12:31:00|1
+Infrastructure1|Infrastructure| Infrastructure Generic Description | 2019-10-06 12:31:00|1
+Storage1|Storage| Storage Generic Description | 2019-10-06 12:31:00|1
+Accounting1|Accounting| Accounting Generic Description | 2019-10-06 12:31:00|1
+Mail1|Mail| Mail Generic Description | 2019-10-06 12:31:00|1
+Support1|Support| Support Generic Description | 2019-10-06 12:31:00|1
+NOC1|NOC| NOC Generic Description | 2019-10-06 12:31:00|1
+Development|Development| Development Generic Description | 2019-10-06 12:31:00|1
+
+

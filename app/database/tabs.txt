@@ -1,0 +1,6 @@
+#uuid , name         , description, icon, created             , active
+TAB_01, Menu         , ...        , ICON, 2019-10-06 12:30:00 , 1
+TAB_02, Methods      , ...        , ICON, 2019-10-06 12:30:00 , 1 
+TAB_03, Orginization , ...        , ICON, 2019-10-06 12:30:00 , 1          
+TAB_04, Users        , ...        , ICON, 2019-10-06 12:30:00 , 1   
+TAB_05, Permissions  , ...        , ICON, 2019-10-06 12:30:00 , 1

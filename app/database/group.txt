@@ -1,0 +1,5 @@
+# group : group_id : members [, ... ]
+root : 0 : 
+sysadmin : 100 :
+users: 1000 :
+

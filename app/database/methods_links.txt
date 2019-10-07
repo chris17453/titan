@@ -1,0 +1,21 @@
+# uuid , name                    , description             , created             , active  , icon          , method_uuid
+LINK_01, View Tab                , View Tab                , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_02, Create TAB              , Create TAB              , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_03, Edit Tab                , Edit Tab                , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_04, Delete Tab              , Delete Tab              , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_05, View Method             , View Method             , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_06, Create Methods          , Create Methods          , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_07, Edit Method             , Edit Method             , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_08, Delete Method           , Delete Method           , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_12, View Orginization       , View Orginization       , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_09, Create Orginization     , Create Orginization     , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_10, Edit Orginization       , Edit Orginization       , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_11, Delete Orginization     , Delete Orginization     , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_16, View Users              , View Users              , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_13, Create Users            , Create Users            , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_14, Edit Users              , Edit Users              , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_15, Delete Users            , Delete Users            , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_20, View Role               , View Role               , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_17, Create Role             , Create Role             , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_18, Edit Role               , Edit Role               , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01
+LINK_19, Delete Role             , Delete Role             , 2019-10-06 12:30:00 , 1       , ICON          , METHOD_01

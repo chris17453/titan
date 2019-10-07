@@ -1,0 +1,399 @@
+﻿
+
+.headerSortDown, .tablesorter-headerSortDown, .tablesorter-headerDesc {
+    background-color: #8cb3d9;
+    background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjB+gC+jP2ptn0WskLQA7);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+.headerSortUp, .tablesorter-headerSortUp, .tablesorter-headerAsc {
+    background-color: #9fbfdf;
+    background-image: url(data:image/gif;base64,R0lGODlhFQAEAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAQAAAINjI8Bya2wnINUMopZAQA7);
+    background-repeat: no-repeat;
+    background-position: center right;
+}
+
+.tablesorter-headerUnSorted {
+/*    background-image: url(data:image/gif;base64,R0lGODlhFQAJAIAAACMtMP///yH5BAEAAAEALAAAAAAVAAkAAAIXjI+AywnaYnhUMoqt3gZXPmVg94yJVQAAOw==);
+ */   background-repeat: no-repeat;
+    background-position: center right;
+}
+
+html{
+    height:100%;
+}
+
+.clear{
+    clear:both;
+}
+ 
+a{
+    color:white;
+    text-decoration:none;
+
+}
+a :visited{
+    color:white;
+    text-decoration:none;
+}
+
+#form1{
+    height:100%
+}
+.titan_body ul{
+    margin:0px;
+    padding:0px;
+    margin-left:15px;
+}
+.titan_body li{
+    margin:0px;
+    padding:0px;
+    margin-left:15px;
+}
+
+ .titan_index_desc{
+     display:block;
+ }
+.titan_index_property{
+     clear:left;
+     float:left;
+     font-weight:bold;
+     width:120px;
+ }
+.titan_index_params{
+    margin-left:10px;
+    padding:5px;
+}
+.titan_index_property_value{
+    float:left;
+     font-weight:normal;
+     padding-left:10px;
+ }
+
+.titan_index_property_value a{
+    color:#91c1ff
+
+}
+
+
+.titan_title h1{
+    margin:0px;
+    padding:0px;
+}
+
+.titan_body h2{
+    margin:0px;
+    padding:0px;
+}
+.titan_body h3{
+    margin:0px;
+    padding:0px;
+}
+
+.titan_header{
+    width:calc(100% - 20px);
+    height:50px;
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+            
+}
+.titan_subtitle{
+    width:calc(100% - 20px);
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    background:#245c69;
+}
+.titan_msg{
+    width:calc(100% - 20px);
+    margin-left:auto;
+    margin-right:auto;
+    padding:10px;
+    background:#245c69;
+    color:red;
+    font-size:20px;
+    text-align:center;
+    display:none;
+}
+.titan_content{
+    padding:10px;
+}
+.titan_columns{
+    width:100%;
+}
+.titan_columns th {
+    background:blue;
+    color:white;
+}
+.titan_wrapper{
+    
+    margin-left:auto;
+    margin-right:auto;
+    width:1400px;
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    background:red;
+}
+.titan_body{
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    background:#555;
+    flex: 1;
+}
+.titan_body table{
+    /*width:100%;*/
+}
+.titan_head{
+    width:100%;
+    height:50px;
+    margin:auto;
+    background: linear-gradient(#444444, #3E3E3E);
+    border-bottom: 1px solid #676767;
+    box-shadow: 0 -1px 0 black;
+    overflow:hidden;
+}
+.titan_title{
+    float:left;
+}
+.titan_foot{
+    width:100%;
+    height:100px;
+    margin:auto;
+    background: linear-gradient(#444444, #3E3E3E);
+    border-top: 1px solid #676767;
+    box-shadow: 0 -1px 0 black;
+    overflow:hidden;
+}
+titan_foot h2{
+    margin:0px;
+}
+.titan_index{
+    float:right;
+    color:lightgray;
+    margin-right:5px;
+}
+.titan_preview{
+    float:right;
+    color:lightgreen;
+    margin-right:5px;
+}
+.titan_edit{
+    float:right;
+    margin-right:5px;
+}
+.titan_left{
+    /*float:left;
+    display:none;*/
+    width:calc(100% - 20px);
+    margin-left:10px;
+
+}
+.titan_right{
+    /*float:left;*/
+    margin-left:20px;
+    width:100%;
+
+}
+.titan_desc{
+    padding-left:10px;
+    color:#8bc34a;
+}
+.titan_index_params li{
+    color:lightgray;
+}
+.titan_index_columns li{
+    color:lightgray;
+}
+
+.titan_button_right{
+    float:right;
+}
+
+.titan_report_head{
+
+}
+.titan_content{
+    margin:0px;
+}
+.titan_report_head h3{
+    margin:0px;
+    padding:5px;
+   /* background:#dfe5d7;*/
+}
+.titan_report_params{
+    margin:5px;
+}
+.titan_parameter_preview{
+   width:400px;
+}
+
+.titan_parameter_preview td{
+    padding:2px;
+}
+.titan_parameter_preview [type=text]{
+    width:200px;
+    margin:2px;
+}
+
+#titanReport{
+    width:100%;
+    position: relative;
+}
+.titan_left{
+    float:left;
+}
+.titan_foot_wrapper{
+    margin:10px;
+}
+
+.titanData{
+    display:none;
+    width:100%;
+}
+#titanClient{
+
+}
+.combo_search{
+    float:left;
+    width:300px;
+}
+#titanClient td{
+    /*font-family: Arial !important;
+    font-size: 10px;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 10px;
+}
+#titanClient th{
+    /*font-size: 10px;
+    font-family: Arial !important;*/
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 10px;
+}
+#titanClient td input{
+    width:100%;
+    border-style:solid;
+    border-width:1px;
+    border-color:darkgrey;
+}
+#titanClient td select{
+    width:100%;
+    border-style:solid;
+    border-width:1px;
+    border-color:darkgrey;
+    padding:1px;
+}
+
+.titan_parameter{
+
+}
+.titan_content {
+    width:100%;
+}
+
+#titanReport {
+    width: 100%;
+}
+#titanReport a{
+    color:blue;
+}
+.titan_hide{
+    display:none;
+}
+.pager{
+   /*width:800px;*/
+   width:100%;
+    /*float:right;*/
+    
+}
+.pager_btn{
+    margin-right:3px;
+    float:left;
+   
+}
+/*Pager buttons..*/
+.pager_buttons {
+    float:left;
+}
+.pager_select{
+    float:left;
+}
+.page_size{
+    width:100px;
+
+}
+.page_display{
+    float:left;
+    width:140px;
+    text-align:center;
+    line-height:27px;
+}
+.pager_table{
+    clear:both;
+    width:100%;
+    margin-top:8px;
+    overflow-x:auto;
+    display:block;
+}
+
+.titan-snipit{
+    width:100%;
+ }
+.titan_label{
+    float:left;
+    margin-left:5px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.titan_export{
+    float:right;
+    margin-left:10px;
+}
+.titan_export a{
+        color:white !important;
+        text-decoration:none;
+}
+
+.titan_fl{
+    float:left;
+
+}
+.titan_ml{
+    margin-left:5px;
+}
+.titan_aggregates{
+    display:none;
+}
+.titan_aggregate{
+    width:220px;
+}
+
+.titan_report_title {
+
+}
+.titan_report_desc{
+    padding-left:5px;
+}
+
+.titan-param-name{
+    min-width:120px;
+    text-align:left;
+}
+
+.titan_parameter_box{
+    width:100%;
+}
+
+.nc-icon-mini{
+    cursor:pointer;
+    min-height:10px;
+    min-width:10px;
+}

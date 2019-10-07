@@ -1,0 +1,5 @@
+
+Flask==1.0.2
+uWSGI==2.0.17.1
+ddb==1.2.208
+jsonpickle==1.1

@@ -1,0 +1,6 @@
+*.pyc
+*.so
+*.tar
+*.zip
+builds
+
